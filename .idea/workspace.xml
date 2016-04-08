@@ -167,7 +167,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1460127967722</updated>
-      <workItem from="1460127969467" duration="206000" />
+      <workItem from="1460127969467" duration="322000" />
     </task>
     <task id="LOCAL-00001" summary="Added index.html and depie.min.js.">
       <created>1460128041104</created>
@@ -180,7 +180,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="206000" />
+    <option name="totallyTimeSpent" value="322000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
